@@ -1,0 +1,6 @@
+{
+  "name": "Receipt Go",
+  "description": "Professional mobile receipt maker, thermal printer & invoice generator for shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
